@@ -1,0 +1,17 @@
+{
+    "name": "edw_2425/cour-no-sql",
+    "autoload": {
+        "psr-4": {
+            "Edw2425\\CourNoSql\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "Nosql"
+        }
+    ],
+    "require": {
+        "mongodb/mongodb": "^1.20",
+        "ext-mongodb": "*"
+    }
+}
